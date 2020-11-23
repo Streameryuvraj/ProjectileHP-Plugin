@@ -1,0 +1,6 @@
+name: ProjectileHP
+main: clearskyteam\Main
+api: 3.0.0
+author: Streameryuvraj
+version: 1.0.1
+description: Display Health and Playsound on Projectile Hit.
