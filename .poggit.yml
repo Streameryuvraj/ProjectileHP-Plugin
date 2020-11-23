@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Streameryuvraj/ProjectileHP-Plugin
+build-by-default: true
+branches:
+- main
+projects:
+  ProjectileHP-Plugin:
+    path: ""
+...
